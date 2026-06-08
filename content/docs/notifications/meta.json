@@ -1,0 +1,5 @@
+{
+  "title": "通知列表",
+  "defaultOpen": false,
+  "pages": ["index", "search-filter", "auto-refresh", "view-notification", "alarm-details"]
+}

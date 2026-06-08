@@ -1,0 +1,5 @@
+{
+  "title": "主页",
+  "defaultOpen": true,
+  "pages": ["index", "camera-info", "system-info", "alarm-overview", "top-menu"]
+}

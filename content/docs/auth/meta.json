@@ -1,0 +1,5 @@
+{
+  "title": "用户身份验证",
+  "defaultOpen": true,
+  "pages": ["index", "register", "login", "forgot-password"]
+}

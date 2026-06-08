@@ -1,0 +1,5 @@
+{
+  "title": "回放",
+  "defaultOpen": false,
+  "pages": ["index", "grid-layout", "list-layout", "player-controls"]
+}

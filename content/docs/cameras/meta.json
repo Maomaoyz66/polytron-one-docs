@@ -1,0 +1,5 @@
+{
+  "title": "摄像头",
+  "defaultOpen": false,
+  "pages": ["index", "management", "live-3d-url", "recording-schedule", "alarm-settings"]
+}

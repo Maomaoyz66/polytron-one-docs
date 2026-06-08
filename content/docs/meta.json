@@ -1,0 +1,14 @@
+{
+  "title": "POLYTRON ONE",
+  "pages": [
+    "index",
+    "auth",
+    "home",
+    "live-view",
+    "alarm-trigger",
+    "playback",
+    "cameras",
+    "notifications",
+    "settings"
+  ]
+}

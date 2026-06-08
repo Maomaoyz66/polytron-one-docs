@@ -1,0 +1,13 @@
+{
+  "title": "实时视图",
+  "defaultOpen": true,
+  "pages": [
+    "index",
+    "tabs",
+    "grid",
+    "camera-selection",
+    "controls",
+    "polytron-360-panel",
+    "ptz-control"
+  ]
+}
